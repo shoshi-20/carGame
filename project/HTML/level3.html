@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="../images/homepage/logooo.png">
+    <title>level 3</title>
+    <meta charset="utf-8" />
+    <link href="../css/loading.css" rel="stylesheet" />
+    <link href="../css/level3.css" rel="stylesheet" />
+</head>
+<body>
+    <p id="score"></p>
+
+    <img src="../images/levels/point_full.png" class="line_pionts" />
+    <img src="../images/levels/point_cp.png" class="point_img" />
+
+    <p id="points">0</p>
+    <p id="points_result">0</p>
+
+    <p id="watch_num">60</p>
+
+
+    <img onclick="stopPlay()" src="../images/levels/audio_pause.png" class="audio_pause" />
+    <img onclick="playAudio()" ondblclick="stopPlay()" src="../images/levels/audio_play.png" class="audio_play" />
+    <div id="point_coin">
+        <img src="../images/road/10p.png" id="img_point_coin" />
+    </div>
+    <audio id="audio_win">
+        <source src="../sound/245127793.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="audio_lose">
+        <source src="../sound/BIG_ZAPP.WAV" type="audio/mpeg" />
+    </audio>
+    <audio id="audio1">
+        <source src="../sound/tunetank.com_4091_dark-force_by_alexey-anisimov.mp3" type="audio/mpeg" />
+    </audio>
+    <audio id="audio_coin">
+        <source src="../sound/DIGI_HAR.WAV" type="audio/mpeg" />
+    </audio>
+    <div id="lose">
+        <img id="winimg" src="../images/levels/winnn.png" />
+        <img id="loseimg" src="../images/levels/lose.png" />
+        <div class="lose_btns">
+            <a class="btn_img" href="levels.html">
+                <img id="levels" src="../images/levels/levels.png" title="levels" />
+            </a>
+            <a class="btn_img" href="HomePage.html">
+                <img id="ok" src="../images/levels/okk.png" title="homepage" />
+            </a>
+            <a class="btn_img" href="level3.html">
+                <img id="again" src="../images/levels/again.png" title="Play again" />
+            </a>
+        </div>
+    </div>
+
+    <div id="pop">
+    </div>
+    <div id="board">
+        <div id="road1" class=" roads">
+            <img class="cars" src="../images/cars/carpink1.png" id="car1" />
+        </div>
+        <div id="road2" class=" roads">
+            <img class="cars" src="../images/cars/carpink1.png" id="car2" />
+        </div>
+        <div id="road3" class=" roads">
+            <img class="cars" src="../images/cars/carpink1.png" id="car3" />
+        </div>
+    </div>
+    <a href="HomePage.html">
+        <div>
+            <img src="../images/homepage/home.png" id="home" />
+        </div>
+    </a>
+    <img src="../images/road/watch.png" id="watch" />
+
+
+
+    <!--loding-->
+    <div class="out" id="out1">
+        <div class="fade-in">
+            <div class="container">
+                <div class="one common"></div>
+                <div class="two common"></div>
+                <div class="three common"></div>
+                <div class="four common"></div>
+                <div class="five common"></div>
+                <div class="six common"></div>
+                <div class="seven common"></div>
+                <div class="eight common"></div>
+            </div>
+            <div class="bar">
+                <div class="progress"></div>
+            </div>
+        </div>
+    </div>
+    <script src="../javascript/level3.js"></script>
+</body>
+</html>

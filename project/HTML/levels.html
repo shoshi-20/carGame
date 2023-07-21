@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="../images/homepage/logooo.png">
+    <title>levels</title>
+    <meta charset="utf-8" />
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        img {
+            width: 35%;
+        }
+
+        div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        img:hover {
+            transform: scale(0.6);
+            transition-duration: 0.5s;
+        }
+
+        body {
+            background-image: url('../images/homepage/homepagebackgraund.png');
+        }
+
+        #carrace {
+            width: 15%;
+        }
+
+            #carrace:hover {
+                transform: rotate(360deg);
+                opacity: 0.5;
+            }
+
+        #home {
+            width: 8%;
+            left: 85%;
+            position: absolute;
+            bottom: 5%;
+        }
+    </style>
+</head>
+<body>
+    <div onclick="playAudio()">
+        <img src="../images/cars/carpink.png" id="carrace" />
+        <a href="level1.html">
+            <div>
+                <img src="../images/levels/level1.png" />
+            </div>
+        </a>
+        <a href="level2.html">
+            <div>
+                <img src="../images/levels/level2.png" />
+            </div>
+        </a>
+        <a href="level3.html">
+            <div>
+                <img src="../images/levels/level 3.png" />
+            </div>
+        </a>
+        <a href="HomePage.html">
+            <div>
+                <img src="../images/homepage/home.png" id="home" />
+            </div>
+        </a>
+    </div>
+</body>
+</html>

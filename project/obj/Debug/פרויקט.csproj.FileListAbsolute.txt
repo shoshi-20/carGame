@@ -1,0 +1,421 @@
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\פרויקט.dll.config
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\פרויקט.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\פרויקט.pdb
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\csc.exe
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\csi.exe
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\obj\Debug\פרויקט.dll
+C:\Users\user\Desktop\תכנות\HTML\java script\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+E:\java script\משחק\פרויקט\פרויקט\bin\פרויקט.dll.config
+E:\java script\משחק\פרויקט\פרויקט\bin\פרויקט.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\פרויקט.pdb
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\csc.exe
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\csc.exe.config
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\csc.rsp
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\csi.exe
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\csi.exe.config
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\csi.rsp
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.AppContext.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Console.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.IO.Compression.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Net.Http.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Net.Sockets.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.ValueTuple.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Xml.XPath.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\vbc.exe
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\vbc.exe.config
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\vbc.rsp
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\VBCSCompiler.exe
+E:\java script\משחק\פרויקט\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+E:\java script\משחק\פרויקט\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\java script\משחק\פרויקט\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\java script\משחק\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+E:\java script\משחק\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+E:\java script\משחק\פרויקט\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+E:\java script\משחק\פרויקט\פרויקט\obj\Debug\פרויקט.dll
+E:\java script\משחק\פרויקט\פרויקט\obj\Debug\פרויקט.pdb
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll.config
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.pdb
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.dll
+C:\Users\משתמש\Documents\aa_Tzivi_programing\JavaScript\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.pdb
+E:\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll.config
+E:\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.pdb
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe.config
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.rsp
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe.config
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.rsp
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.AppContext.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Console.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Http.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Sockets.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.ValueTuple.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe.config
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.rsp
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe
+E:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+E:\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+E:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+E:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+E:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.dll
+E:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.pdb
+F:\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll.config
+F:\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.pdb
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe.config
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.rsp
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe.config
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.rsp
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.AppContext.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Console.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Http.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Sockets.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.ValueTuple.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe.config
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.rsp
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe
+F:\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+F:\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csprojResolveAssemblyReference.cache
+F:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.dll
+F:\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.pdb
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.pdb
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.pdb
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll.config
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\פרויקט.pdb
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.exe.config
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csc.rsp
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.exe.config
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\csi.rsp
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.AppContext.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Console.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Http.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Net.Sockets.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.ValueTuple.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.exe.config
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\vbc.rsp
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.dll
+E:\java script פרויקט\פרויקט6\פרויקט\פרויקט 1\פרויקט\obj\Debug\פרויקט.pdb
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\פרויקט.dll.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\פרויקט.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\פרויקט.pdb
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\csc.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\csi.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\obj\Debug\פרויקט.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\obj\Debug\פרויקט.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\obj\Debug\פרויקט.csproj.CopyComplete
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\obj\Debug\פרויקט.dll
+C:\Users\user\Desktop\תכנות\java script\פרויקט\פרויקט7\פרויקט\obj\Debug\פרויקט.pdb

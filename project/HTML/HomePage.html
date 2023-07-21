@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="../images/homepage/logooo.png">
+    <title>car race</title>
+    <meta charset="utf-8" />
+    <link href="../css/homepage.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <img src="../images/homepage/homepage12.png" id="car" />
+
+        <a href="levels.html">
+            <div>
+                <img src="../images/homepage/play.png" id="play" title="Play" />
+            </div>
+        </a>
+    </div>
+
+    <img src="../images/homepage/Instructions.png" id="in" title="Instructions" onclick="document.getElementById('id01').style.display='block'"/>
+    <div id="id01" class="modal">
+        <div class="imgcontainer">
+            <span onclick="document.getElementById('id01').style.display='none'" class="close" title="חזרה למשחק">&times;</span>
+        </div>
+        <div class="animate" id="container">
+            <p class="animate">
+                <img src="../images/cars/carpink.png" id="carrace" />
+                <h1 class="glow">הוראות המשחק</h1>
+                המשחק הוא מרוץ מכוניות בין המשתתפים. כל שחקן מנסה לצבור 1000
+                ק“מ באמצעות קלפי התקדמות. תוך כדי ההתקדמות עלולים יריביו להציב
+                בפניו מחסומים והפרעות באמצעות קלפי חסימה שונים. בטרם יוכל
+                להמשיך ולהתקדם עליו לטפל בתקלה בעזרת קלף היחלצות מתאים.
+                קלפי חסינות מעניקים הגנה מוחלטת בפני גורמים מעכבים מסוימים.
+                המשחק מתנהל סביב שולחן וכל שחקן מבצע מהלך אחד בתורו. הוא יכול
+                לבחור בין הצבת קלף מועיל לעצמו או קלף מעכב בדרכו של יריב.
+                כדי להקל על חישוב המרחק שעבר כל שחקן ומצבו, עליו להציב את
+                הקלפים המצטברים לפניו באופן הבא:
+            </p>
+        </div>
+    </div>
+    <script>
+        var modal = document.getElementById('id01');
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,246 @@
+﻿body {
+    background-image: url('../images/road/road.png');
+    background-size: 100% 105%;
+    height: 98vh;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+/*  הפס במרכז הכביש*/
+.lines { 
+    animation: slide 5s 1;
+    width: 5%;
+    height: 10%;
+    position: absolute;
+    background-color: papayawhip;
+    margin-left: 115%;
+}
+
+/*אנימציה*/
+@keyframes slide {
+    0% {
+        top: -15vh;
+    }
+
+    30% {
+        opacity: 100%;
+    }
+
+    99% {
+        opacity: 100%;
+    }
+
+    100% {
+        top: 95vh;
+        visibility: hidden;
+        opacity: 0%;
+    }
+}
+/*מכונית ורודה למטה*/
+.cars {
+    z-index: 10;
+    left: 40%;
+    position: absolute;
+    bottom: 0;
+    margin: auto;
+    width: 8vw;
+    display: none;
+}
+
+/*כביש*/
+#board {
+    width: 45vw;
+    height: 96vh;
+    top: 0;
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+/*שבילים*/
+.roads {
+    height: 100%;
+    width: 33.3%;
+    position: relative;
+    display: flex;
+}
+
+/*דיב עוטף מכונית מלמעלה*/
+.image-box {
+    animation: slide 5s 1;
+    height: 10vw;
+    left: 40%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    display: flex;
+    width: 6vw;
+    z-index: -1;
+}
+
+/*כפתור למטה-חזרה לדף הבית*/
+#home {
+    width: 8%;
+    left: 87%;
+    position: absolute;
+    bottom: 5%;
+}
+
+    #home:hover, .audio:hover {
+        transform: scale(0.6);
+        transition-duration: 0.5s;
+    }
+
+/*שעון למטה*/
+#watch {
+    width: 25%;
+    position: absolute;
+    bottom: 10%;
+}
+
+/*רקע שחור פופאפ-lose/win*/
+#pop {
+    width: 150%;
+    height: 150%;
+    background-color: black;
+    opacity: 50%;
+    z-index: 9;
+    display: none;
+}
+
+#ok:hover, #levels:hover, #again:hover {
+    transform: scale(0.6);
+    transition-duration: 0.5s;
+}
+
+/*פופאפ lose/win*/
+#lose {
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    transition: 0.5s;
+}
+
+/*כפתורים פופאפ lose/win*/
+.lose_btns {
+    position: absolute;
+    bottom: 25%;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.btn_img {
+    padding: 0 4px;
+}
+
+    .btn_img img {
+        width: 10vh;
+    }
+
+/*רקע סגול lose*/
+#loseimg {
+    width: 70vh;
+    margin: auto;
+    position: relative;
+    display: flex;
+    display: none;
+}
+
+/*רקע סגול win*/
+#winimg {
+    width: 70vh;
+    margin: auto;
+    position: relative;
+    display: flex;
+    display: none;
+}
+
+/*מנגינת רקע כפתור*/
+.audio_play {
+    display: block;
+    width: 6%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+.audio_pause {
+    width: 6%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    display: block;
+}
+
+/*שעון מספרים*/
+#watch_num {
+    width: 50%;
+    height: 1%;
+    color: lightblue;
+    font-size: 255%;
+    z-index: 1;
+    left: 12%;
+    bottom: 20%;
+    position: absolute;
+}
+
+/*ניקוד*/
+#points {
+    position: absolute;
+    left: 85%;
+    top: 5%;
+    z-index: 99;
+    font-size: 200%;
+    color: white;
+    font-weight: bold;
+}
+
+/*ניקוד בסןף בניצחון*/
+#points_result {
+    position: absolute;
+    left: 44.5%;
+    top: 50%;
+    z-index: 99;
+    font-size: 220%;
+    color: white;
+    font-weight: bold;
+    display: none;
+}
+
+/*רקע של קו מתמלא ניקוד*/
+.point_img {
+    position: absolute;
+    width: 20%;
+    left: 78%;
+}
+
+/*קו מתמלא ניקוד*/
+.line_pionts {
+    position: absolute;
+    width: 0.48%;
+    height: 2%;
+    left: 83.5%;
+    top: 5%;
+    z-index: 1;
+}
+
+/* localstorege-שיא*/
+#score {
+    width: 20%;
+    height: 20%;
+    font-size: 220%;
+    color: white;
+    font-weight: bold;
+    z-index: 99;
+    left: 52%;
+    top: 41%;
+    position: absolute;
+}
